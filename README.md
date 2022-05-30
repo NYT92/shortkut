@@ -19,4 +19,6 @@ I am creating this for fun cuz im so lazy to type npm run shit or yarn run shit
 - Then Restarted Your CMD or BASH and Done...
 
 
+# Linux
 
+idk if u know tell me
