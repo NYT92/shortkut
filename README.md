@@ -11,6 +11,7 @@ I am creating this for fun cuz im so lazy to type npm run shit or yarn run shit
 ![explorer_bRPjI7njUs](https://user-images.githubusercontent.com/53612429/170929778-4d9158c7-4c04-49c6-879f-30f3d31f4d54.gif)  
 
 - Click On Enviromental Varibles Then Click New  
+> Varibles Name Should Be Path in order to work (my bad)
 ![image](https://user-images.githubusercontent.com/53612429/170930646-758c4812-6ccb-4e54-abc8-1948883856fe.png)  
 
 - Add the Folder that you created to the browse directory  
